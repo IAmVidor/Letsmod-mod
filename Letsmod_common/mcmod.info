@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "The Official LetsMod mod!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Vidor"
+  ],
+  "credits": "Vidor",
+  "logoFile": "/mods/ee3/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
